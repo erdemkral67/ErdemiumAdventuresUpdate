@@ -1,11 +1,16 @@
 {
-  "homepage": "https://modrinth.com/mod/erdemium-adventures",
-  "promos": {
-    "1.21.4-latest": "0.1.2",
-    "1.21.4-recommended": "0.1.2"
-  },
-  "1.21.4": {
-    "0.1.1": "Read in home page",
-    "0.1.2": "Read in home page"
-  }
+    "homepage": "https://modrinth.com/mod/erdemium-adventures",
+    "promos": {
+        "1.21.4-latest": "0.1.2",
+        "1.21.4-recommended": "0.1.2"
+    },
+    "protocols": {
+        "0.1.1": 1,
+        "0.1.2": 2,
+        "0.1.3": 3
+    },
+    "1.21.4": {
+        "0.1.1": "Read in home page",
+        "0.1.2": "Read in home page"
+    }
 }
