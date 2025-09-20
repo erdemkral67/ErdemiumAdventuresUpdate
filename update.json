@@ -10,7 +10,8 @@
         "0.1.3": 3,
         "0.1.4": 4,
         "0.2.1": 101,
-        "0.2.2": 102
+        "0.2.2": 102,
+        "0.2.3": 103
     },
     "1.21.4": {
         "0.1.1": "Read in home page",
@@ -18,6 +19,7 @@
         "0.1.3": "Read in home page",
         "0.1.4": "Read in home page",
         "0.2.1": "Read in home page",
-        "0.2.2": "Read in home page"
+        "0.2.2": "Read in home page",
+        "0.2.3": "Read in home page"
     }
 }
