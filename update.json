@@ -1,8 +1,8 @@
 {
     "homepage": "https://modrinth.com/mod/erdemium-adventures",
     "promos": {
-        "1.21.4-latest": "1.4.0.4",
-        "1.21.4-recommended": "1.4.0.4"
+        "1.21.4-latest": "1.4.0.5",
+        "1.21.4-recommended": "1.4.0.5"
     },
     "protocols": {
         "0.1.1": 1,
@@ -48,7 +48,8 @@
         "1.4.0.2": 1300002,
         "1.4.0.3": 1300003,
         "1.4.0.4": 1300004,
-        "1.4.0.5": 1300005
+        "1.4.0.5": 1300005,
+        "1.4.0.6": 1300006
     },
     "aliases": {
         "comment": "This field is deprecated as of 26w18a (v1.2.0.6)",
